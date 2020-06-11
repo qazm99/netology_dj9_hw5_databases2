@@ -1,0 +1,23 @@
+[
+  {
+    "model": "articles.theme",
+    "pk": 1,
+    "fields": {
+      "name":"наука"
+    }
+  },
+  {
+    "model": "articles.theme",
+    "pk": 2,
+    "fields": {
+      "name":"общество"
+    }
+  },
+  {
+    "model": "articles.theme",
+    "pk": 3,
+    "fields": {
+      "name":"политика"
+    }
+  }
+]
